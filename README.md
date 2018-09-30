@@ -1,6 +1,6 @@
 # macOS on the ThinkPad X220
 
-because who can afford a new MacBook nowadays
+a.k.a. macOS budget meal
 
 ## Introduction (and warnings!)
 
