@@ -2,6 +2,8 @@
 
 a.k.a. macOS budget meal
 
+![img][img]
+
 ## Introduction (and warnings!)
 
 This guide specifically has not been tested extensively nor is it written to be an exhaustive guide for installing macOS. This works on my personal X220. YMMV.
@@ -154,3 +156,4 @@ Vector Scroll: disabled
 [ssdtprgen]: https://github.com/Piker-Alpha/ssdtPRGen.sh
 [clover-configurator]: https://mackie100projects.altervista.org/download-clover-configurator/
 [smartscroll]: https://www.marcmoini.com/sx_en.html
+[img]: https://i.imgur.com/MKHYxM6.jpg
