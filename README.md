@@ -76,7 +76,7 @@ Also, a lot of things don't work: iMessage, FaceTime, Continuity, Handoff, Metal
 
 2. Copy over the EFI folder from the `mojave` directory in this repository
 
-3. Include other kexts you might need under `/Volumes/EFI/EFI/CLOVER/kexts/Other`
+3. Include other kexts you might need under `/Volumes/EFI/EFI/CLOVER/kexts/Other` _(note to self: you probably want to install your AR5B95 kexts under `common/ar5b95-mojave` here)_
 
 4. Run `sudo spctl --master-disable` to allow apps from unidentified developers
 
