@@ -24,6 +24,16 @@ A more complete guide can be found at [John McDonnell's page][mcdonnell] dedicat
 
 Also, a lot of things don't work: iMessage, FaceTime, Continuity, Handoff, Metal, among others.
 
+### Versions tested
+
+* macOS Mojave 10.14.3
+
+* [dosdude1's macOS Mojave Patcher 1.2.3][dosdude1]
+
+* [Clover Configurator 5.4.1.1][clover-configurator]
+
+* [John McDonnell's ThinkPad X220 macOS 10.13 Utility and Kext Pack 12.09.2018][mcdonnell]
+
 ### My X220 specs
 
 * Intel Core i5-2540M @ 2.6GHz
@@ -41,10 +51,14 @@ Also, a lot of things don't work: iMessage, FaceTime, Continuity, Handoff, Metal
 ### What you'll need:
 
 * A >=16GB USB flash drive
-* [dosdude1's macOS Mojave Patcher][dosdude1]
-* Install macOS Mojave.app (optional!)
-* [John McDonnell's ThinkPad X220 macOS 10.13 Utility and Kext Pack][mcdonnell]
+
+* Install macOS Mojave.app
+
+* [macOS Mojave Patcher][dosdude1]
+
 * [Clover Configurator][clover-configurator]
+
+* A copy of this repository
 
 ### Prepare the patched macOS Mojave installer
 
