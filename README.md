@@ -1,3 +1,7 @@
+# 🚨 WARNING 🚨
+
+This is only known to support **macOS 10.14.0 - 10.14.3 only**. This does **not** currently work for 10.14.4.
+
 # macOS Mojave on the ThinkPad X220
 
 a.k.a. macOS budget meal
@@ -12,15 +16,15 @@ A more complete guide can be found at [John McDonnell's page][mcdonnell] dedicat
 
 Also, a lot of things don't work (at least not without additional configuration): iMessage, FaceTime, Continuity, Handoff, Metal, among others.
 
-### Versions tested
+### Versions tested and used
 
 * macOS Mojave 10.14.3
 
-* [dosdude1's macOS Mojave Patcher 1.2.3][dosdude1]
+* macOS Mojave Patcher 1.2.3 ([download][dosdude1_archive])
 
-* [Clover Configurator 5.4.1.1][clover-configurator]
+* Clover Configurator 5.4.1.1 ([download][clover-configurator])
 
-* [John McDonnell's ThinkPad X220 macOS 10.13 Utility and Kext Pack 12.09.2018][mcdonnell]
+* John McDonnell's ThinkPad X220 macOS 10.13 Utility and Kext Pack 12.09.2018 ([guide][mcdonnell])
 
 ### My X220's specs
 
@@ -44,9 +48,9 @@ Also, a lot of things don't work (at least not without additional configuration)
 
 * Install macOS Mojave.app
 
-* [macOS Mojave Patcher 1.2.3][dosdude1]
+* macOS Mojave Patcher 1.2.3 ([download][dosdude1_archive])
 
-* [Clover Configurator 5.4.1.1][clover-configurator]
+* Clover Configurator 5.4.1.1 ([download][clover-configurator])
 
 * A copy of this repository
 
@@ -164,6 +168,7 @@ Vector Scroll: disabled
 
 [mcdonnell]: http://x220.mcdonnelltech.com
 [dosdude1]: http://dosdude1.com/mojave/
+[dosdude1_archive]: http://dosdude1.com/mojave/archive/
 [ssdtprgen]: https://github.com/Piker-Alpha/ssdtPRGen.sh
 [clover-configurator]: https://mackie100projects.altervista.org/download-clover-configurator/
 [smartscroll]: https://www.marcmoini.com/sx_en.html
