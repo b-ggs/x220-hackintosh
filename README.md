@@ -14,9 +14,9 @@ Also, a lot of things don't work (at least not without additional configuration)
 
 ### Versions tested
 
-* macOS Mojave 10.14.4
+* macOS Mojave 10.14.3
 
-* [dosdude1's macOS Mojave Patcher 1.3.0][dosdude1]
+* [dosdude1's macOS Mojave Patcher 1.2.3][dosdude1]
 
 * [Clover Configurator 5.4.1.1][clover-configurator]
 
@@ -44,7 +44,7 @@ Also, a lot of things don't work (at least not without additional configuration)
 
 * Install macOS Mojave.app
 
-* [macOS Mojave Patcher 1.3.0][dosdude1]
+* [macOS Mojave Patcher 1.2.3][dosdude1]
 
 * [Clover Configurator 5.4.1.1][clover-configurator]
 
