@@ -22,7 +22,7 @@ Also, a lot of things don't work (at least not without additional configuration)
 
 * [John McDonnell's ThinkPad X220 macOS 10.13 Utility and Kext Pack 12.09.2018][mcdonnell]
 
-### My X220 specs
+### My X220's specs
 
 * Intel Core i5-2540M @ 2.6GHz
 
@@ -66,7 +66,9 @@ Also, a lot of things don't work (at least not without additional configuration)
 
 1. Mount the **USB flash drive's EFI partition** with Clover Configurator
 
-2. Copy over the EFI folder from the `mojave` directory in this repository
+2. Copy over the EFI folder from this repository to the EFI partition
+
+3. Ensure that the folder structure is correct. For example, the path to the `CLOVER` folder should be `/Volumes/EFI/EFI/CLOVER`
 
 ### Install macOS Mojave
 
@@ -94,7 +96,7 @@ Also, a lot of things don't work (at least not without additional configuration)
 
 2. Copy over the EFI folder from the `mojave` directory in this repository
 
-3. Include other kexts you might need under `/Volumes/EFI/EFI/CLOVER/kexts/Other` _(note to self: you probably want to install your AR5B95 kexts under `common/ar5b95-mojave` here)_
+3. Include other kexts you might need under `/Volumes/EFI/EFI/CLOVER/kexts/Other` _(note to self: you probably want to install your AR5B95 kexts under `other-kexts/ar5b95-mojave` here)_
 
 4. Run `sudo spctl --master-disable` to allow apps from unidentified developers
 
@@ -104,7 +106,7 @@ Also, a lot of things don't work (at least not without additional configuration)
 
 1. Mount your **internal hard drive's EFI partition** with Clover Configurator
 
-2. Run `common/ssdtprgen/ssdtPRGen.sh` in this repository
+2. Run `scripts/ssdtprgen/ssdtPRGen.sh` in this repository
 
 3. Answer `N` to all questions
 
