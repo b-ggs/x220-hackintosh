@@ -26,9 +26,9 @@ Also, a lot of things don't work: iMessage, FaceTime, Continuity, Handoff, Metal
 
 ### Versions tested
 
-* macOS Mojave 10.14.3
+* macOS Mojave 10.14.4
 
-* [dosdude1's macOS Mojave Patcher 1.2.3][dosdude1]
+* [dosdude1's macOS Mojave Patcher 1.3.0][dosdude1]
 
 * [Clover Configurator 5.4.1.1][clover-configurator]
 
