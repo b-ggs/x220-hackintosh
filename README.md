@@ -1,3 +1,15 @@
+## Warning!!!
+
+This has been tested to work from 10.14.0-10.14.2 (maybe .3?), **but does not work on 10.14.4 onwards**! (See [this issue](https://github.com/b-ggs/x220-hackintosh/issues/3) for details)
+
+I have since moved on to using a MacBook, and have turned my X220 back into a Linux machine.
+
+For a more stable macOS experience on the X220, **I recommend using High Sierra**. You can find John McDonnell's very well written guide on how to install High Sierra on the X220 [here][mcdonnell].
+
+PRs are welcome for those who can figure out the issue with 10.14.4++. I can personally verify them on my machine in my free time.
+
+Thank you all for understanding.
+
 # macOS on the ThinkPad X220
 
 a.k.a. macOS budget meal
