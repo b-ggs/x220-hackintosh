@@ -14,7 +14,7 @@ Also, a lot of things don't work (at least not without additional configuration)
 
 ### Versions tested and used
 
-* macOS Mojave 10.14.6
+* macOS Mojave 10.14.5
 
 * macOS Mojave Patcher 1.3.3 ([download][dosdude1_archive])
 
@@ -40,7 +40,7 @@ Also, a lot of things don't work (at least not without additional configuration)
 
 * A >=16GB USB flash drive
 
-* macOS Mojave 10.14.6
+* Install macOS Mojave.app (10.14.6+)
 
 * macOS Mojave Patcher 1.3.3 ([download][dosdude1_archive])
 
@@ -70,7 +70,7 @@ Also, a lot of things don't work (at least not without additional configuration)
 
 ### Install macOS Mojave
 
-1. Go through the normal install process (Erase the disk with Disk Utility, install and wait until it finishes)
+1. Go through the normal install process (Erase the disk with Disk Utility, install, and wait until it finishes)
 
 2. When the machine reboots, instead of booting from the internal drive, boot back into the installer USB flash drive
 
@@ -159,6 +159,9 @@ Vector Scroll: disabled
 * [John McDonnell for his High Sierra kexts][mcdonnell]
 * [dosdude1 for their macOS Mojave Patcher][dosdude1]
 * [Piker-Alpha's ssdtPRGen][ssdtprgen]
+* The contributors in [#3][3] who helped provide new info:
+  * [x-t](https://github.com/x-t)
+  * [kazunari03](https://github.com/kazunari03)
 
 [mcdonnell]: http://x220.mcdonnelltech.com
 [dosdude1]: http://dosdude1.com/mojave/
@@ -166,4 +169,5 @@ Vector Scroll: disabled
 [ssdtprgen]: https://github.com/Piker-Alpha/ssdtPRGen.sh
 [clover-configurator]: https://mackie100projects.altervista.org/download-clover-configurator/
 [smartscroll]: https://www.marcmoini.com/sx_en.html
-[img]: https://i.imgur.com/MKHYxM6.jpg
+[img]: https://i.imgur.com/dzb5CMV.png
+[3]: https://github.com/b-ggs/x220-hackintosh/issues/3
