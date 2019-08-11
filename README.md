@@ -1,7 +1,3 @@
-# 🚨 WARNING 🚨
-
-This is only known to support **macOS 10.14.0 - 10.14.3 only**. This does **not** currently work for 10.14.4.
-
 # macOS Mojave on the ThinkPad X220
 
 a.k.a. macOS budget meal
@@ -18,13 +14,11 @@ Also, a lot of things don't work (at least not without additional configuration)
 
 ### Versions tested and used
 
-* macOS Mojave 10.14.3
+* macOS Mojave 10.14.6
 
-* macOS Mojave Patcher 1.2.3 ([download][dosdude1_archive])
+* macOS Mojave Patcher 1.3.3 ([download][dosdude1_archive])
 
-* Clover Configurator 5.4.1.1 ([download][clover-configurator])
-
-* John McDonnell's ThinkPad X220 macOS 10.13 Utility and Kext Pack 12.09.2018 ([guide][mcdonnell])
+* Clover Configurator 5.4.5.0 ([download][clover-configurator])
 
 ### My X220's specs
 
@@ -46,11 +40,11 @@ Also, a lot of things don't work (at least not without additional configuration)
 
 * A >=16GB USB flash drive
 
-* Install macOS Mojave.app
+* macOS Mojave 10.14.6
 
-* macOS Mojave Patcher 1.2.3 ([download][dosdude1_archive])
+* macOS Mojave Patcher 1.3.3 ([download][dosdude1_archive])
 
-* Clover Configurator 5.4.1.1 ([download][clover-configurator])
+* Clover Configurator 5.4.5.0 ([download][clover-configurator])
 
 * A copy of this repository
 
