@@ -14,9 +14,9 @@ Also, a lot of things don't work (at least not without additional configuration)
 
 ### Versions tested and used
 
-* macOS Mojave 10.14.5
+* macOS Mojave 10.14.6
 
-* macOS Mojave Patcher 1.3.3 ([download][dosdude1_archive])
+* macOS Mojave Patcher 1.3.3 ([download][dosdude1])
 
 * Clover Configurator 5.4.5.0 ([download][clover-configurator])
 
@@ -40,9 +40,9 @@ Also, a lot of things don't work (at least not without additional configuration)
 
 * A >=16GB USB flash drive
 
-* Install macOS Mojave.app (10.14.6+)
+* Install macOS Mojave.app (10.14.6)
 
-* macOS Mojave Patcher 1.3.3 ([download][dosdude1_archive])
+* macOS Mojave Patcher 1.3.3 ([download][dosdude1])
 
 * Clover Configurator 5.4.5.0 ([download][clover-configurator])
 
@@ -114,7 +114,7 @@ Also, a lot of things don't work (at least not without additional configuration)
 
 #### Change hibernatemode for better sleep defaults ([detailed guide][mcdonnell])
 
-1. Run `sudo pmset -a hibernatemode 0` on a terminal
+1. Run `sudo pmset -a hibernatemode 0` in the Terminal
 
 #### Fix broken screen brightness controls ([detailed guide][mcdonnell])
 
@@ -165,9 +165,8 @@ Vector Scroll: disabled
 
 [mcdonnell]: http://x220.mcdonnelltech.com
 [dosdude1]: http://dosdude1.com/mojave/
-[dosdude1_archive]: http://dosdude1.com/mojave/archive/
 [ssdtprgen]: https://github.com/Piker-Alpha/ssdtPRGen.sh
 [clover-configurator]: https://mackie100projects.altervista.org/download-clover-configurator/
 [smartscroll]: https://www.marcmoini.com/sx_en.html
-[img]: https://i.imgur.com/dzb5CMV.png
+[img]: https://i.imgur.com/6kAvt9c.png
 [3]: https://github.com/b-ggs/x220-hackintosh/issues/3
